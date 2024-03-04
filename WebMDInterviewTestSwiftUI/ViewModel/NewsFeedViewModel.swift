@@ -24,8 +24,10 @@ class NewsFeedViewModel: ObservableObject {
             DispatchQueue.main.async {
                 switch result {
                 case .success(let newsArticles):
-                    if newsArticles.count > 5 {
-                        self.newsArray.append(contentsOf: Array(newsArticles[0..<5]))
+                    if newsArticles.count > 25 {
+                        if self.newsArray.isEmpty {
+                            self.newsArray.append(contentsOf: Array(newsArticles[0..<25]))
+                        }
                     }
                 case .failure(let error):
                     print(error.localizedDescription)

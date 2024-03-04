@@ -27,12 +27,12 @@ struct NewsListView: View {
                                 ProgressView()
                             }
                         }
-                        .shadow(color: .gray, radius: 10)
                         .cornerRadius(15)
                         .frame(width: 300, height: 300, alignment: .center)
                         VStack(alignment: .leading) {
-                            Text(newsArticle.title ?? "").font(.title3)
-                            Text(newsArticle.description ?? "").font(.caption)
+                            Text(newsArticle.title ?? "").font(.title2).bold()
+                            Text(newsArticle.description ?? "").font(.body)
+                                .lineLimit(2)
                         }
                     }
                 }.buttonStyle(.plain)
@@ -42,6 +42,7 @@ struct NewsListView: View {
             }
             // 3. Implement navigation to a detail view on selection.
         }
+        
     }
 }
 

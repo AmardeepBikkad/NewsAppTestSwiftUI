@@ -6,9 +6,13 @@
 //
 
 import Foundation
-
+@testable import WebMDInterviewTestSwiftUI
 
 class MockNewsListViewService: NewsListViewServiceDelegate {
+    func fetchNews(completion: @escaping (Result<[WebMDInterviewTestSwiftUI.NewsArticle], Error>) -> Void) {
+        
+    }
+    
     var result: Result<[NewsArticle], Error>!
     
     func fetchNews(completion: @escaping (Result<[NewsArticle], Error>) -> Void) {
