@@ -1,0 +1,74 @@
+//
+//  NewsArticles.swift
+//  WebMDInterviewTestSwiftUITests
+//
+//  Created by Amardeep Bikkad on 02/03/24.
+//
+
+[
+    {
+    "source": {
+        "id": null,
+        "name": "Phonandroid"
+    },
+    "author": "Alexandre Mathiot",
+    "title": "Cybertruck : ces photos chocs tombent à pic pour démontrer la résistance du véhicule",
+    "description": "Un récent accident impliquant un Cybertruck et un Dodge Ram a mis en lumière l'exceptionnelle résistance du véhicule électrique. Alors que ce premier s'en est sorti avec des dommages minimes, le Ram a été considérablement endommagé, mettant en avant la...",
+    "url": "https://www.phonandroid.com/cybertruck-ces-photos-chocs-tombent-a-pic-pour-demontrer-la-resistance-du-vehicule.html",
+    "urlToImage": "https://wp-pa.phonandroid.com/uploads/2024/02/dodge-ram-accident-cybertruck.jpg",
+    "publishedAt": "2024-02-28T13:30:39Z",
+    "content": "Un récent accident impliquant un Cybertruck et un Dodge Ram a mis en lumière l'exceptionnelle résistance du véhicule électrique. Alors que ce premier s'en est sorti avec des dommages minimes, le Ram … [+3126 chars]"
+},
+    {
+    "source": {
+        "id": null,
+        "name": "Feber.se"
+    },
+    "author": "Wille Wilhelmsson",
+    "title": "Bitcoin nu över 60.000 dollar",
+    "description": "Har gått upp med över 40 procent på en månad\n\n\n\n\n\n\nKryptovalutan bitcoin har fortsatt att öka i värdering efter att valutan började handlas för över 50.000 dollar för två veckor sedan. Idag gick valutan över 60.000-dollarstrecket, något som innebär att bitcoi…",
+    "url": "https://feber.se/samhalle/bitcoin-nu-over-60000-dollar/463615/",
+    "urlToImage": "https://static.feber.se/article_images/58/32/77/583277.jpg",
+    "publishedAt": "2024-02-28T13:30:00Z",
+    "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+45153 chars]"
+},
+    {
+    "source": {
+        "id": null,
+        "name": "Diariomotor.com"
+    },
+    "author": "David Villarreal",
+    "title": "La nueva promesa imposible de Elon Musk, ¿hasta dónde llegará el Tesla Roadster esta vez?",
+    "description": "A estas alturas deberíamos estar de sobra acostumbrados a las promesas de Tesla e Elon Mask que no se cumplen o, mejor dicho, que no se alcanzan en los plazos anunciados. Pero la última promesa de Elon Musk no solo es difícil que se cumpla a tiempo. Sino que …",
+    "url": "https://www.diariomotor.com/noticia/tesla-roadster-promesa-elon-musk/",
+    "urlToImage": "https://www.diariomotor.com/wp-content/themes/diariomotor2014/images/logo-diariomotor-black.png",
+    "publishedAt": "2024-02-28T13:29:51Z",
+    "content": "A estas alturas deberíamos estar de sobra acostumbrados a las promesas de Tesla e Elon Mask que no se cumplen o, mejor dicho, que no se alcanzan en los plazos anunciados. Pero la última promesa de El… [+3223 chars]"
+},
+    {
+    "source": {
+        "id": "fortune",
+        "name": "Fortune"
+    },
+    "author": "Paolo Confino",
+    "title": "Why Elon Musk and Kara Swisher aren't speaking anymore",
+    "description": "In her new memoir \"Burn Book: A Tech Love Story,\" famed tech reporter Kara Swisher explains why she’s fed up with Elon Musk, a man she once rather admired.",
+    "url": "https://fortune.com/2024/02/28/why-elon-musk-and-kara-swisher-arent-speaking-burn-book/",
+    "urlToImage": "https://content.fortune.com/wp-content/uploads/2024/02/Elon-and-Kara.jpg?resize=1200,600",
+    "publishedAt": "2024-02-28T13:28:00Z",
+    "content": "Over the course of her more than three-decade career as a chronicler of Silicon Valley, veteran tech journalist Kara Swisher has taken countless executives to task. She once famously made a young Mar… [+5922 chars]"
+},
+    {
+    "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+    },
+    "author": "Nora Naughton",
+    "title": "The auto industry owes Toyota an apology on hybrids",
+    "description": "Toyota's slow-and-steady approach to EVs and hybrids is going well, despite years of criticism.",
+    "url": "https://www.businessinsider.com/toyota-hybrid-cars-ev-sales-growth-prius-bz4x-2024-2",
+    "urlToImage": "https://i.insider.com/65df348cce7f1785b2e47152?width=1200&format=jpeg",
+    "publishedAt": "2024-02-28T13:27:41Z",
+    "content": "Toyota logoMatt Cardy/Getty Images\r\n<ul><li>Once a laggard, Toyota is now well-positioned to meet a new EV market.</li><li>Toyota's hybrid-heavy approach is actually going well.</li><li>Even the comp… [+3446 chars]"
+}
+]
